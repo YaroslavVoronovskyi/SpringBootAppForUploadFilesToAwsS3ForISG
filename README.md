@@ -12,14 +12,10 @@ data you need to use in application.yaml.
 
 Example Request:
 You should use "form-data", fill "key" name like "file", "value" you can upload file which you wanna upload to S3 
-and send request   
-
-![](/Users/yaroslav/Desktop/Screenshot 2024-03-12 at 01.28.26.png)
+and send request
 
 Example Response:
 
 status 200 ok
 
-Open your S3 bucket and you will see your file
-
-![](/Users/yaroslav/Desktop/Screenshot 2024-03-12 at 01.27.35.png)
+Open your S3 bucket and you will see your file.
