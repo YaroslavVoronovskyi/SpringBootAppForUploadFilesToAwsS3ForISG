@@ -1,0 +1,12 @@
+    springdoc:
+       swagger-ui:
+           path: /swagger-ui.html
+
+    server:
+       port: 8080
+
+   aws:
+      accessKey: your own iam user access key
+      secretAccessKey: your own iam user secret access key
+      bucketName: your own s3 bucket, for example - demo-car-sharing-bucket
+      region: region of your bucket, for example - eu-central-1
